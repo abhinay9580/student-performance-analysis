@@ -1,4 +1,4 @@
-# 📊 Student Performance Analysis (Day 3)
+# 📊 Student Performance Analysis project
 
 ## 📌 Overview
 This project analyzes student performance using Python and Pandas.  
